@@ -71,3 +71,7 @@ Content above the line.
 ---
 
 Content below the line.
+
+## Summary
+
+This demo covered the core Markdown syntax: headings, text formatting, links, lists, quotes, code blocks, images, and horizontal rules.
