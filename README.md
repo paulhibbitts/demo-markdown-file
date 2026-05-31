@@ -1,6 +1,6 @@
 # Standard Markdown Demo
 
-Explore the wide range of Markdown features available for creating various types of content.
+Explore the core Markdown features supported across most editors and platforms.
 
 ## Headings
 ### H3 Heading
